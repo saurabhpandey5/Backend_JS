@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "author": "saurabh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
